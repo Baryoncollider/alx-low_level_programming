@@ -1,8 +1,8 @@
-#include "main"
+#include "main.h"
 
 /**
  * print_last_digit -> prints the last digit
- * @n: the passed args
+ * @n: the passed arguments
  * Return: the last digit
  */
 int print_last_digit(int n)
