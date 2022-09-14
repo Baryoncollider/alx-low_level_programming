@@ -1,12 +1,10 @@
 #include "main"
 
 /**
- * _abs - computes the absolute value of an integer
- * @n: argument
- *
- * Return: 0
+ * _abs -> return absolute value of a number
+ * @n: parameter
+ * Return: absolute valuenof a number
  */
-
 int _abs(int n)
 {
 	if (n < 0)
