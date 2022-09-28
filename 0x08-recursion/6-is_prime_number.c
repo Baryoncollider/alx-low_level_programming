@@ -20,7 +20,7 @@ int is_prime_number(int n)
  * Return: a 1 0r 0
  */
 
-int check_prime(int n, int i)
+int check_prime(int int i)
 {
 	if (n <= 1)
 		return (0);
